@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body {
-  color: #ffb4a2; 
+  background-image: url(../images/plaster.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
