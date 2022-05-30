@@ -37,12 +37,16 @@ h3{
 ul, ol{
   list-style-position: inside;
 }
+
 a:link {
   font-size: 30px;
 }
 a:visited 
   {color:#ab8788;
   }
+  a:hover { color: #403933; }
+  a:active { color: #403933; }  
+  
   a:hover {
     text-decoration: underline;	
   }
