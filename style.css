@@ -36,3 +36,9 @@ h3{
 ul, ol{
   list-style-position: inside;
 }
+a:link{
+  font-size: 35px;
+{
+a:visited{
+  color:white;
+  }
