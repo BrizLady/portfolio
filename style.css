@@ -39,6 +39,7 @@ ul, ol{
 }
 a:link {
   font-size: 30px;
+  color:slateblue;
 }
 a:visited 
   {color:#ab8788;
@@ -46,5 +47,6 @@ a:visited
   
   
   a:hover {
+    color: rebeccapurple;
     text-decoration: underline;	
   }
