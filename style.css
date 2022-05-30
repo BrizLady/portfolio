@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 body {
-background: url(../images/plaster.jpg) center center cover no-repeat fixed;
+background: url(images/plaster.jpg) center center cover no-repeat fixed;
 }
 header h1{
   margin: 0;
