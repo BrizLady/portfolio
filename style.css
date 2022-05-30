@@ -3,8 +3,10 @@ html {
   width: 100%;
 }
 body {
-background-color: #e5989b;
-
+background-image: url(images/plaster.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
 }
 header h1{
   margin: 0;
