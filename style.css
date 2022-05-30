@@ -22,7 +22,7 @@ h2{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 30%;
 }
 
 header, h1, h2, h3, p, ul, ol { 
@@ -42,4 +42,7 @@ a:link {
 }
 a:visited 
   {color:#ab8788;
+  }
+  a:hover {
+    text-decoration: underline;	
   }
