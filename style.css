@@ -37,6 +37,7 @@ h3{
 ul, ol{
   list-style-position: inside;
 }
+/* link styles */
 a:link {
   font-size: 30px;
   color: navy;
