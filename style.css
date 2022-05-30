@@ -2,19 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
-<<<<<<< HEAD
 body {
-=======
-body, header, footer{
->>>>>>> f5597e7b05f08526f71cdff648cf0eecf760938f
 background-image: url(images/plaster.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100%;
-<<<<<<< HEAD
 
-=======
->>>>>>> f5597e7b05f08526f71cdff648cf0eecf760938f
 }
 header h1{
   margin: 0;
@@ -29,7 +22,7 @@ h2{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 50%;
 }
 
 header, h1, h2, h3, p, ul, ol { 
@@ -44,18 +37,9 @@ h3{
 ul, ol{
   list-style-position: inside;
 }
-<<<<<<< HEAD
 a:link {
   font-size: 30px;
 }
 a:visited 
   {color:#ab8788;
   }
-=======
-a:link{
-  font-size: 30px;
-{
-a:visited{
-  color:#ab8788;
-  }
->>>>>>> f5597e7b05f08526f71cdff648cf0eecf760938f
