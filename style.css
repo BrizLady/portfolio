@@ -3,7 +3,11 @@ html {
   width: 100%;
 }
 body {
-background: url(../images/plaster.jpg) center center cover no-repeat fixed;
+background-image: url(images/plaster.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+
 }
 header h1{
   margin: 0;
@@ -33,3 +37,9 @@ h3{
 ul, ol{
   list-style-position: inside;
 }
+a:link {
+  font-size: 30px;
+}
+a:visited 
+  {color:#ab8788;
+  }
