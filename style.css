@@ -39,14 +39,10 @@ ul, ol{
 }
 a:link {
   font-size: 30px;
-  color:slateblue;
+  color: navy;
 }
 a:visited 
   {color:#ab8788;
   }
   
   
-  a:hover {
-    color: rebeccapurple;
-    text-decoration: underline;	
-  }
