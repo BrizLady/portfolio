@@ -3,7 +3,8 @@ html {
   width: 100%;
 }
 body {
-background: url(https://github.com/BrizLady/portfolio/blob/a620760826ca081e2f80b102b79579a9477f0e2e/images/plaster.jpg) center center cover no-repeat fixed;
+background-image: url(https://github.com/BrizLady/portfolio/blob/a620760826ca081e2f80b102b79579a9477f0e2e/images/plaster.jpg); 
+
 }
 header h1{
   margin: 0;
